@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">AppBibliotecaEscolar</string>
+    <string name="INGRESAR">INGRESAR</string>
+    <string name="REGISTRARSE">REGISTRARSE</string>
+    <string name="NOMBRE">NOMBRE</string>
+    <string name="APELLIDO">APELLIDO</string>
+    <string name="DNI">DNI</string>
+    <string name="DOMICILIO">DOMICILIO</string>
+    <string name="CORREO">CORREO ELECTRÓNICO</string>
+    <string name="TELÉFONO">TELÉFONO</string>
+    <string name="ESCUELA">ESCUELA</string>
+    <string name="CONTRASEÑA">CONTRASEÑA</string>
+    <string name="ATRAS">ATRÁS</string>
+    <string name="CREAR">CREAR</string>
 </resources>
