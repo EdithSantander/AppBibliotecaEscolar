@@ -11,4 +11,5 @@ public class Ingreso extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_ingreso);
     }
+
 }
