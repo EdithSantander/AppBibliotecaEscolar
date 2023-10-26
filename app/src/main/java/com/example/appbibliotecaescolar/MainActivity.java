@@ -27,7 +27,9 @@ public class MainActivity extends AppCompatActivity {
     }
      //metodo para el boton registrase
     public void Registrarse(View view){
+
         Intent registrarse = new Intent(this, Registrarse.class);
+        startActivity(registrarse);
     }
 
 }
