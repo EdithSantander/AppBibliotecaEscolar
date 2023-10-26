@@ -2,11 +2,12 @@
     <string name="app_name">AppBibliotecaEscolar</string>
     <string name="title_activity_biblioteca">Biblioteca</string>
     <string name="title_activity_Reserva">Reserva</string>
-    <string name="seleccionar">Seleccionar búsqueda</string>
+    <string name="textSeleccionar">Seleccione la búsqueda</string>
     <string name="checkNombre">Nombre</string>
     <string name="checkAutor">Autor</string>
-    <string name="txtnombreLibro">Nombre del libro:</string>
-    <string name="txtnombreAutor">Autor:</string>
+    <string name="buscador">Ingrese su búsqueda</string>
+    <string name="textNombreLibro">Nombre del libro:</string>
+    <string name="textNombreAutor">Autor:</string>
     <string name="nombreLibro"></string>
     <string name="nombreAutor"></string>
 
