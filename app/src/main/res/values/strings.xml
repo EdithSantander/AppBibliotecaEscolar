@@ -11,6 +11,7 @@
     <string name="nombreLibro"></string>
     <string name="nombreAutor"></string>
     <string name="ingresar">INGRESAR</string>
+    <string name="registrarse">REGISTRARSE</string>
     <string name="apellido">APELLIDO</string>
     <string name="nombre">NOMBRE</string>
     <string name="dni">DNI</string>
