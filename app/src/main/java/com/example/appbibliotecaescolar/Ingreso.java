@@ -2,7 +2,9 @@ package com.example.appbibliotecaescolar;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 
 public class Ingreso extends AppCompatActivity {
 
@@ -10,6 +12,10 @@ public class Ingreso extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_ingreso);
+    }
+    public void Ingresar(View view){
+        Intent ingreso = new Intent(this, Biblioteca.class);
+        startActivity(ingreso);
     }
 
 }
