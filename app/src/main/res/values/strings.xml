@@ -10,6 +10,18 @@
     <string name="textNombreAutor">Autor:</string>
     <string name="nombreLibro"></string>
     <string name="nombreAutor"></string>
+    <string name="ingresar">INGRESAR</string>
+    <string name="apellido">APELLIDO</string>
+    <string name="nombre">NOMBRE</string>
+    <string name="dni">DNI</string>
+    <string name="domicilio">DOMICILIO</string>
+    <string name="correo">CORREO ELECTRÓNICO</string>
+    <string name="usuario">USUARIO</string>
+    <string name="contrasena">CONTRASEÑA</string>
+    <string name="btatras">ATRÁS</string>
+    <string name="btcrear">CREAR</string>
+    <string name="telefono">TELÉFONO</string>
+
 
 
 

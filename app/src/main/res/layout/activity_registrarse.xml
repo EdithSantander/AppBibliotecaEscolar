@@ -206,7 +206,7 @@
         android:layout_height="44dp"
         android:ems="10"
         android:inputType="text"
-        android:text="@string/contraseña"
+        android:text="@string/contrasena"
         app:layout_constraintBottom_toTopOf="@+id/button2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.656"
@@ -243,14 +243,6 @@
         app:layout_constraintVertical_bias="0.176" />
 
     <Button
-        android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Button"
-        tools:layout_editor_absoluteX="97dp"
-        tools:layout_editor_absoluteY="831dp" />
-
-    <Button
         android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -263,7 +255,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#118FC8"
-        android:text="@string/atras"
+        android:text="@string/btatras"
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/button6"
@@ -275,7 +267,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#118FC8"
-        android:text="@string/crear"
+        android:text="@string/btcrear"
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
