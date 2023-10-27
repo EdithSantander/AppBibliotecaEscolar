@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <!-- Incluye el Toolbar aquí -->
+    <include layout="@layout/toolbar"/>
 
     <Button
         android:id="@+id/buttonRegistrarse"

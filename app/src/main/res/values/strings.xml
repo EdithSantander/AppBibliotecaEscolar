@@ -1,15 +1,21 @@
 <resources>
-    <string name="app_name">AppBibliotecaEscolar</string>
+    <string name="app_name"></string>
     <string name="title_activity_biblioteca">Biblioteca</string>
     <string name="title_activity_Reserva">Reserva</string>
-    <string name="textSeleccionar">Seleccione la búsqueda</string>
+    <string name="itemIngreso">Ingreso</string>
+    <string name="itemBiblioteca">Biblioteca</string>
+    <string name="itemMisReservas">Mis reservas</string>
+    <string name="item5"></string>
+    <string name="textseleccionar">Seleccione la búsqueda</string>
     <string name="checkNombre">Nombre</string>
     <string name="checkAutor">Autor</string>
     <string name="buscador">Ingrese su búsqueda</string>
-    <string name="textNombreLibro">Nombre del libro:</string>
-    <string name="textNombreAutor">Autor:</string>
+    <string name="textnombreLibro">Nombre del libro:</string>
+    <string name="textnombreautor">Autor:</string>
     <string name="nombreLibro"></string>
     <string name="nombreAutor"></string>
+    <string name="botonAtras"></string>
+    <string name="botonCerrar"></string>
     <string name="ingresar">INGRESAR</string>
     <string name="registrarse">REGISTRARSE</string>
     <string name="apellido">APELLIDO</string>
@@ -24,9 +30,17 @@
     <string name="telefono">TELÉFONO</string>
     <string name="bibliotecaescolar">BIBLIOTECA ESCOLAR</string>
     <string name="btingresar">INGRESAR</string>
-
-
-
-
-   
+    <string name="textreservas">Mis reservas</string>
+    <string name="textresenias">Reseña</string>
+    <string name="textnombrelibro">Nombre del libro:</string>
+    <string name="nombredelLibro"></string>
+    <string name="textautorlibro">Autor del libro:</string>
+    <string name="autordelLibro"></string>
+    <string name="texteditoriallibro">Editorial</string>
+    <string name="editorialdelLibro"></string>
+    <string name="textaniopublicacion">Año de publicación</string>
+    <string name="aniodePublicacion"></string>
+    <string name="textnuminventario">Número de inventario</string>
+    <string name="numeroInventario"></string>
+    <string name="botonReservar">Reservar</string>
 </resources>
