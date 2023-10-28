@@ -10,7 +10,7 @@
         android:layout_width="409dp"
         android:layout_height="wrap_content"
         android:layout_marginBottom="665dp"
-        android:background="#303098"
+        android:background="#08176C"
         android:minHeight="?attr/actionBarSize"
         android:theme="?attr/actionBarTheme"
         app:layout_constraintBottom_toBottomOf="parent"

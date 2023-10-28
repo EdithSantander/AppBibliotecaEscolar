@@ -13,13 +13,10 @@
         android:theme="@style/Theme.AppBibliotecaEscolar"
         tools:targetApi="31">
         <activity
-            android:name=".ReseniaActivity"
+            android:name=".Reserva"
             android:exported="false" />
         <activity
-            android:name=".ReservaActivity"
-            android:exported="false" />
-        <activity
-            android:name=".BibliotecaActivity"
+            android:name=".Biblioteca"
             android:exported="false"
             android:label="@string/title_activity_biblioteca"
             android:theme="@style/Theme.AppBibliotecaEscolar" />
